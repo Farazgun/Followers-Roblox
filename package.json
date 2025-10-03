@@ -1,0 +1,11 @@
+{
+  "name": "roblox-followers",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.4.1"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
