@@ -1,0 +1,12 @@
+{
+  "name": "roblox-followers",
+  "version": "1.0.0",
+  "main": "api/user.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "node-fetch": "^3.4.0"
+  },
+  "type": "module"
+}
